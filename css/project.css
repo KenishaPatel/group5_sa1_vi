@@ -1,0 +1,17 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: white;
+  }
+
+.container-login100 {
+    background-image: url('../images/oisng_1.png');
+    height: 800px;
+    width: 1350px
+}
+
+td {
+    padding: 5px;
+}
